@@ -1,47 +1,290 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JuiceBar</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on JuiceBar</description>
+    <title>Welcome to Blowfish! :tada: on Yuk-Haau&#39;s Website</title>
+    <link>https://Yuk-Haau.github.io/</link>
+    <description>Recent content in Welcome to Blowfish! :tada: on Yuk-Haau&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Feb 2023 22:19:13 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Yuk-Haau</copyright>
+    <lastBuildDate>Sun, 08 Aug 9999 00:00:00 +0000</lastBuildDate><atom:link href="https://Yuk-Haau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Self Reliance</title>
-      <link>http://localhost:1313/post/self-reliance/</link>
-      <pubDate>Sat, 18 Feb 2023 22:19:13 +0800</pubDate>
-      <guid>http://localhost:1313/post/self-reliance/</guid>
-      <description>I read the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instill is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men, —that is genius.</description>
+      <title>Build your homepage using Blowfish and Hugo</title>
+      <link>https://Yuk-Haau.github.io/guides/202310-blowfish-tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/guides/202310-blowfish-tutorial/</guid>
+      <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/guides/202310-blowfish-tutorial/featured.jpg" />
     </item>
+    
     <item>
-      <title>什么是好小说</title>
-      <link>http://localhost:1313/post/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%BD%E5%B0%8F%E8%AF%B4/</link>
-      <pubDate>Sat, 18 Feb 2023 22:11:12 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%BD%E5%B0%8F%E8%AF%B4/</guid>
-      <description>我想冒昧地谈一谈，在我看来一部好小说应该具有哪些特性。它的主题应该能引起广泛的兴趣，即不仅能使一群人——不管是批评家、教授、有高度文化修养的人，还是公共汽车售票员或者酒吧侍者——感兴趣，而且具有较普遍的人性，对普通男女都有感染力。主题还应该能引起持久的兴趣，一个选择只有一时兴趣的题材进行创作的小说家，是个浅薄的小说家，因为一旦人们对这样的题材失去兴趣，他的小说也就像上星期的报纸一样不值一读了。作者讲述的故事应该合情合理而且有条有理，故事应该有开端、中间和结尾，结尾必须是开端的自然结局。情节要具有可能性，不仅仅要有利于主题发展，还应该是由故事自然产生的。小说中的人物要有个性，他们的行为应该于他们的性格，决不能让读者议论说：“某某人是决不会干那种事的。”相反，要读者不得不承认：“某某人那样做，完全是情理之中的事。“我觉得，要是人物又很有趣，那就更好。福楼拜的《感情教育》虽然受到许多著名批评家的高度称赞，但是他选择的主人公却是个没有个性、没有生气、也没有任何特点的人，以至他的所作所为以及在他身上所发生的一切，都无法使人产生兴趣。结果，虽然想说中有许多出色之处，但整部小说还是令人难以卒读。我觉得，我必须解释一下，为什么我认为人物必须具有个性。因为要求小说家创造出完全新型的人物，是强人所难，小说家使用的材料是人性，虽然在各种不同的环境中人性千变万化，但也不是无限的，人们创作小说、故事、戏剧、史诗已有几千年历史，一个小说家能够创造出一种新型人物的机会，可说微乎其微，回顾整个小说史，我所能想到的唯一具有独创性的任务，就是堂·吉诃德。然而，即便是他，我还是毫不惊讶地听说，有个知识渊博的批评家已为他找到一个古老的祖先。因此，只要一个小说家能通过个性来观察他的人物，只要他的人物个性鲜明，而且鲜明到足以让人错以为他是一种独创的人物，那么这个小说家就已经是很成功了。&#xA;既然行为应源于性格，那么语言也应如此。一个上流社会女子，谈吐就应该像个上流社会女子。一个妓女的语言，就得像个妓女。一个赛马场招徕顾客的人或者一个律师，讲话也得符合各自身份（我不得不说，梅瑞耿斯或亨利·詹姆斯的作品就有一个缺点，就是他们的人物都千篇一律地用梅瑞耿斯或亨利·詹姆斯的腔调说话）。小说中的对话不能杂乱无章，也不应该用来发表作者的意见。它必须服从于典型化人物的塑造和故事情节的发展，叙述的部分应该写得直截了当，要生动、明确，只需把人物的动机以及他们所处的环境令人信服地交代清楚，而不应过于冗长。文笔要简洁，使一般文化修养的读者阅读时也不觉得费劲，风格要和内容一致，就像式样精巧的鞋要和大小匀称的脚相配。最后，好的小说还应引人入胜。我虽然把这一点放到最后说，但却是最基本的要点，没有这一点，其他一切全都会落空。一部小说在提供娱乐的同时越发引人深思，就越好。娱乐一词有多种含义，提供乐趣或者消遣只是其中之一。人们容易犯的错误是，认为娱乐就其含义而言，消遣是唯一重要的。其实，《呼啸山庄》或《卡拉马佐兄弟》和《特里斯川·项狄传》或《康第姐》同样具有娱乐性。虽然感染人的程度不同，但同样真实。当然，小说家有权处理那些和每个人都密切相关的重要主题，如：上帝的存在、灵魂的不朽、生命的意义及价值，等等。但是，他在这样做的时候，最好记住约翰逊博士的至理名言：”关于上帝、灵魂或者生命这样的主题，没有人再能发表新的真实见解，或者真实的新见解。“即便这些主题是小说家所要讲述的故事的一个组成部分，而且对人物的典型化是必需的，会影响到人物的行为举止——也就是说，如果不是这样，他们就不会有那样的行为举止——小说家也只能指望读者对他所涉及到的这些主题感兴趣而已。&#xA;即便一部长篇小说具有我提出的所有优点（这要求已相当高），它在形式上也会有这样那样的缺陷，就如白璧微瑕，很难做到尽善尽美。因此，没有一部长篇小说是十全十美的，一个短篇小说可能是十全十美的，根据它的篇幅，大约在10分钟到1个小时内就能读完，它的主题单一、明确，完整描写一个精神的或物质的事件，或者描写一连串密切相关的事件。它可以做到不可增减的程度。我相信，像这样完美的境界，短篇小说是可以达到的，而且我认为要找到一批这样的短篇小说也不难。但是，长篇小说却是一种篇幅不限定的叙事文学，它可以长得像《战争与和平》那样，同时表现一系列相互关联的事件，又同时表现许许多多人物。也可以短得像《嘉尔曼》那样。为了把故事讲得真是，作者总要降到与故事有关的其他事情，而且这些事情并不总是很有趣的。事件的发展往往需要有时间上的间隔，作者为了使作品得到平衡，就得尽力插入一些内容来填补因间隔而留下的空白。这样的段落称之为”桥“。大多数小说家虽然都天生有过”桥“的才能，但在此过程中，枯燥无味却是难免的。小说家也是人，不可避免地会受到时代风气的影响，更何况小说家的感受性还胜过一般人，因此他时常会不自主地写出一些追随世风的、昙花一现的东西。举例来说：19世纪之前的小说家是不太注意景物描写的，写道某物也至多一二句话。但是，当浪漫主义作家，如夏多布里昂，受到公众喜爱后，为描写而描写就成了一时的风尚，某个人物上街到灶火点去买牙刷，作者也会告诉你，他路过的屋子是什么样子，店里出售的是什么商品，等等。黎明和夕阳、夜晚的星空、万里无云的晴天、白雪皑皑的山岭、阴森幽暗的树木——所有这一切，都会引来没完没了的冗长描写。许多描写固然很美，但离题万里。只是到了很久之后，作家们才明白，不管多么富有诗意、多么逼真形象的景物描写，除非它有助于推动故事的发展或者有助于读者了解人物的某些情况，否则就是多余的废话。这还是长篇小说偶尔才有的缺点，另一种缺点则是内在的、必然的。要完成一部洋洋洒洒的长篇巨著是很费时日的，至少也得几个星期，一般需要好几个月，有时甚至要好几年。作家的创造力往往会衰退，这是很自然的事。这样他就只能硬着头皮坚持写下去，而在这种情况下写出来的东西，如果对读者还会有吸引力的话，那简直是惊人的奇迹了。&#xA;过去，读者总希望小说越长越好，因为他们花钱买小说书，当然想读出本钱来。于是，作家们就挖空心思在自己讲述的故事中添加许多的材料，他们找到了一条捷径那就是让小说中插入小说，有时插入的部分长得像一个中篇小说，而和整部小说的主题又毫无关系，即使有也是牵强附会的。《堂·吉诃德》的作者塞万提斯就是这么做的，而且其大胆程度简直无人能与之相比。那些插入的文字，后来一直被视为是这部不朽名著的一个污点，现在也不再有人会耐心地去读它们了。正因为这一点，塞万提斯受到了现代批评家的攻击。不过，我们知道，他在后半部里避免了这种不良倾向，因此要比前半部好得多，写出了那些被认为奇妙得不可思议的篇章。遗憾的是，他的后继者（他们肯定不读批评文章）并没有停止使用这种方法，他们继续向书商提供大量的廉价故事，足以满足读者的需要。到了19世纪，新的出版形式又使小说家面临新的诱惑。月刊因为用很大篇幅刊登消遣文学而大获成功，对此虽有人嗤之以鼻，但它却为小说作者提供好机会，即：在月刊上连载小说可得到丰厚的报酬。几乎与此同时，出版商也发现，在月刊上连载知名作家的小说是有利可图的。作家要按合同定期向出版商提供一定数量的小说，或者说要写满一定的页数。这样一来，就逼着他们慢吞吞地讲故事，一写就是洋洋万言。我们从他们自己说的话中就得知，这些连载小说的作者，甚至他们中最杰出的如狄更斯、萨克雷和特罗洛普等人也不是感到，要一次又一次定期交出等着连载的那部分小说，实在是一种难以承受的沉重负担。无怪乎，他们只好把小说拉长！无怪乎，他们只好用不相干的内容把故事弄得拖泥带水！所以，如果考虑到当时的小说家有那么多的障碍和陷阱，那么当你发现当时最优秀的小说也有缺陷时，就不会大惊小怪了。实际上，使我觉得惊讶的倒是，它们的缺陷并不像想象的那么多。&#xA;毛姆 《什么是好小说》</description>
+      <title>Multiple Authors</title>
+      <link>https://Yuk-Haau.github.io/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/multiple-authors/</guid>
+      <description>A quick example of how multiple authors could be used.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/multiple-authors/featured.jpg" />
     </item>
+    
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown_syntax_guide/</link>
-      <pubDate>Thu, 16 Feb 2023 18:58:11 +0800</pubDate>
-      <guid>http://localhost:1313/post/markdown_syntax_guide/</guid>
-      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&#xA;Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.&#xA;H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</description>
+      <title>Thumbnails</title>
+      <link>https://Yuk-Haau.github.io/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/thumbnail_sample/</guid>
+      <description>A quick example of how to start using Thumbnails in your artciles.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/thumbnail_sample/featured.jpg" />
     </item>
+    
     <item>
-      <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/post/lorem-ipsum/</link>
-      <pubDate>Sun, 10 Apr 2022 16:50:28 +0800</pubDate>
-      <guid>http://localhost:1313/post/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur&amp;hellip;&#xA;What is Lorem Ipsum? In mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus utn mollis cursus ligula, et venenatis neque maximus ut</description>
+      <title>Welcome to Blowfish</title>
+      <link>https://Yuk-Haau.github.io/docs/welcome/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/welcome/</guid>
+      <description>Blowfish is packed with tons of features. The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of Congo and expands its initial vision.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/welcome/featured.png" />
     </item>
+    
     <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>《桃花源记》是东晋文学家陶渊明的代表作之一，是《桃花源诗》的序言，选自《陶渊明集》。此文借武陵渔人行踪这一线索，把现实和理想境界联系起来，通过对桃花源的安宁和乐、自由平等生活的描绘，表现了作者追求美好生活的理想和对当时的现实生活不满。&#xA;晋太元中，武陵人捕鱼为业。缘溪行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷，渔人甚异之。复前行，欲穷其林。 林尽水源，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，才通人。复行数十步，豁然开朗。土地平旷，屋舍俨然，有良田美池桑竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人。黄发垂髫，并怡然自乐。 见渔人，乃大惊，问所从来。具答之。便要还家，设酒杀鸡作食。村中闻有此人，咸来问讯。自云先世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。问今是何世，乃不知有汉，无论魏晋。此人一一为具言所闻，皆叹惋。余人各复延至其家，皆出酒食。停数日，辞去。此中人语云：“不足为外人道也。” 既出，得其船，便扶向路，处处志之。及郡下，诣太守，说如此。太守即遣人随其往，寻向所志，遂迷，不复得路。 南阳刘子骥，高尚士也，闻之，欣然规往。未果，寻病终，后遂无问津者。</description>
+      <title>Installation</title>
+      <link>https://Yuk-Haau.github.io/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation # These instructions will get you up and running using Hugo and Blowfish from a completely blank state.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/installation/featured.png" />
     </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://Yuk-Haau.github.io/docs/getting-started/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/getting-started/</guid>
+      <description>This section assumes you have already installed the Blowfish theme. We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/getting-started/featured.png" />
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://Yuk-Haau.github.io/docs/configuration/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/configuration/</guid>
+      <description>Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.
+The theme ships with a default configuration that gets you up and running with a basic blog or static website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/configuration/featured.png" />
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://Yuk-Haau.github.io/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/icons/</guid>
+      <description>Blowfish has built-in support for a number of FontAwesome 6 icons. These can be included in your website through either the icon partial or icon shortcode.
+Additionally, custom icons are also fully supported.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/icons/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Homepage Layout</title>
+      <link>https://Yuk-Haau.github.io/docs/homepage-layout/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/homepage-layout/</guid>
+      <description>Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/homepage-layout/featured.png" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>https://Yuk-Haau.github.io/docs/front-matter/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/front-matter/</guid>
+      <description>In addition to the default Hugo front matter parameters, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/front-matter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Thumbnails</title>
+      <link>https://Yuk-Haau.github.io/docs/thumbnails/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/thumbnails/</guid>
+      <description>Thumbnails # Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/thumbnails/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://Yuk-Haau.github.io/docs/shortcodes/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/shortcodes/</guid>
+      <description>In addition to all the default Hugo shortcodes, Blowfish adds a few extras for additional functionality.
+Alert # alert outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/shortcodes/featured.png" />
+    </item>
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://Yuk-Haau.github.io/docs/multi-author/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/multi-author/</guid>
+      <description>Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/multi-author/featured.png" />
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>https://Yuk-Haau.github.io/docs/partials/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/partials/</guid>
+      <description>Analytics # Blowfish provides built-in support for Fathom Analytics and Google Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.
+Fathom Analytics # To enable Fathom Analytics support, simply provide your Fathom site code in the config/_default/params.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/partials/featured.png" />
+    </item>
+    
+    <item>
+      <title>Content Examples</title>
+      <link>https://Yuk-Haau.github.io/docs/content-examples/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/content-examples/</guid>
+      <description>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/content-examples/featured.png" />
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>https://Yuk-Haau.github.io/docs/series/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/series/</guid>
+      <description>Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/series/featured.png" />
+    </item>
+    
+    <item>
+      <title>Advanced Customisation</title>
+      <link>https://Yuk-Haau.github.io/docs/advanced-customisation/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/advanced-customisation/</guid>
+      <description>There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/advanced-customisation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hosting &amp; Deployment</title>
+      <link>https://Yuk-Haau.github.io/docs/hosting-deployment/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/hosting-deployment/</guid>
+      <description>There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.
+Blowfish is built using relative URLs throughout the theme.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/hosting-deployment/featured.png" />
+    </item>
+    
+    <item>
+      <title>Firebase: Views &amp; Likes</title>
+      <link>https://Yuk-Haau.github.io/docs/firebase-views/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/docs/firebase-views/</guid>
+      <description>In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/docs/firebase-views/featured.png" />
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://Yuk-Haau.github.io/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/markdown/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/markdown/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://Yuk-Haau.github.io/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/rich-content/</guid>
+      <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/rich-content/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://Yuk-Haau.github.io/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematical notation</title>
+      <link>https://Yuk-Haau.github.io/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/mathematical-notation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://Yuk-Haau.github.io/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/charts/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Diagrams and Flowcharts</title>
+      <link>https://Yuk-Haau.github.io/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/diagrams-flowcharts/</guid>
+      <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/diagrams-flowcharts/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>https://Yuk-Haau.github.io/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/samples/emoji/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Recipe Template</title>
+      <link>https://Yuk-Haau.github.io/guides/template/</link>
+      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yuk-Haau.github.io/guides/template/</guid>
+      <description>Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.
+How to start? # This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Yuk-Haau.github.io/guides/template/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
